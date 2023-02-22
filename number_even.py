@@ -14,4 +14,4 @@ var_int = var_int//10
 d = var_int%10
 var_int = var_int//10
 
-print((a,c))
+print((c,a)) 
